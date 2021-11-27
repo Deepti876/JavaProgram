@@ -11,6 +11,7 @@ public class Addition
 	    System.out.println(first + " " + second);
 
 	    // add two numbers
+	    // add new variable
 	    int sum = first + second;
 	    System.out.println("The sum is: " + sum);
 	  }
